@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^2.12.0"
+    "basiclightbox": "^5.0.4",
+    "parcel": "^2.12.0",
+    "pnotify": "^5.2.0"
   }
 }
